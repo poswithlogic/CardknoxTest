@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardKnoxTest.Forms", "CardKnoxTest.Forms\CardKnoxTest.Forms.csproj", "{AC202CCC-D9BF-427C-BD75-E1B41E7C2C75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Referenced Assemblies", "Referenced Assemblies", "{7957BDAD-98C4-4FCA-BFA0-33197840A92A}"
+	ProjectSection(SolutionItems) = preProject
+		Referenced Assemblies\PaymentEngine.dll = Referenced Assemblies\PaymentEngine.dll
+		Referenced Assemblies\xCore.dll = Referenced Assemblies\xCore.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC202CCC-D9BF-427C-BD75-E1B41E7C2C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC202CCC-D9BF-427C-BD75-E1B41E7C2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC202CCC-D9BF-427C-BD75-E1B41E7C2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC202CCC-D9BF-427C-BD75-E1B41E7C2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B90C54C-7450-4E48-A2F5-063E1E7DCA9A}
+	EndGlobalSection
+EndGlobal
